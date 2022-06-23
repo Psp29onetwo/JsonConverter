@@ -66,7 +66,7 @@ Please submit the complete python code solution.**
 
 
 ```
-| frame_id    | tracking_id | label     	|
+| frame_id    | tracking_id | label     	  |
 |             |             |               |
 |             |             |               |
 |             |             |               |
